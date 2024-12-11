@@ -2,7 +2,7 @@
 
 **Contact Information:**
 - 📞 +1 857-350-7158
-- 📧 khedekarskaustubh@gmail.com
+- 📧 kaustubh202500@gmail.com
 - 📍 Boston, MA
 - [LinkedIn](https://www.linkedin.com/in/kaustubh-khedekar/) | [GitHub](https://github.com/Kaustubhk28) | [Portfolio](https://kaustubhk28.github.io/Portfolio-website.github.io/) | [Medium](https://medium.com/@khedekarskaustubh) | [Tableau](https://public.tableau.com/app/profile/kaustubh.khedekar/vizzes)
 
