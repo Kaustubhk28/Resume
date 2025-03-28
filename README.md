@@ -39,47 +39,41 @@ Data Analyst and Engineer with 3+ years of experience in optimizing ETL pipeline
 ---
 
 ## **Experience**
+### **Starmark Financial LLC | Trevose, PA**  
+**Data Support Specialist**  
+_Feb 2025 – Present_
+- Built and launched CI/CD pipeline from scratch using GitHub Actions, automating validation, deployment, and synchronization for Python, SQL, HTML, JSON, and CSV scripts, improving development and production workflows
+- Automated version control, validation, formatting, merging, production syncing and code reviews with 3 YAML workflows, in CI/CD pipeline, integrating automated testing to ensure high-quality, production-ready scripts in Agile environment
+- Configured self-hosted GitHub Actions runner on Azure VM, for seamless production code sync, reducing deployment errors by 30%
+- Led pilot testing of 30+ scripts across multiple formats, refining automation before scaling to 300+ interdependent scripts with a dependency-aware system, optimizing CI/CD integration and deployment efficiency
+- Created Python-based scripts for data extraction from DebtMaster, leveraging Flask to create web-based interfaces with HTML and CSS for interactive data visualization and automation
+- Wrote SQL queries to meet stakeholder-specific data requirements, ensuring well-structured insights for business decision-making
 
 ### **KeelWorks Foundation | Boston, MA**  
 **Data Analyst**  
-_Feb 2024 – Present_
-- Developed a chatbot application with Streamlit, Python, and BERT model to answer user queries and FAQs for website visitors.
-- Evaluated 500+ queries to identify behavior trends using sentiment analysis, topic modeling, and text classification techniques.
-- Facilitated secure data handling by automating PII extraction workflows through encrypted APIs and data masking methods, improving communication efficiency by 40%.
-- Streamlined employee activity reviews by analyzing activity logs, archiving 30 inactive members, and optimizing team structures.
-- Built dashboards in Tableau and Power BI with DAX calculations, slicers, and KPIs to track project performance and team productivity.
-- Migrated cloud infrastructure by dockerizing components, employing container orchestration with Docker and ECR, optimizing CI/CD pipelines, shifting infrastructure from AWS to Linode, reducing cloud costs by 67%
+_Feb 2024 – Jan 2024_
+- Developed a chatbot application with FastAPI, Python, and sBERT model to answer user queries and FAQs for website visitors, using 80% similarity threshold to provide relevant answers, streamlining internal communication and improving response times
+- Engineered ML-powered API with FastAPI and Uvicorn, loading pre-trained model from pickle file to deliver real-time responses and log unanswered queries in a MySQL database for continuous improvement
+- Analyzed 500+ queries with sentiment analysis, topic modeling to identify trends, emotions and themes, enhancing accuracy by 15%
+- Facilitated data handling by automating PII extraction workflows with NLTK, employing named entity recognition (NER) to detect and extract sensitive information, improving communication efficiency by 40%
 
 ### **Bridge to Calculus | Boston, MA**  
 **Data Analyst Intern**  
 _Jun 2023 – Dec 2023_
-- Organized and analyzed 30-year data of students and alumni using SQL joins, data normalization, and data profiling techniques.
-- Leveraged pandas profiling to generate a report on 28K+ records, identifying missing values, duplicates, and schema mismatches.
-- Enhanced quality by 40% through cleaning, dimensional modeling, and integrating data warehouse solutions in Snowflake.
-- Assessed donation data in R using methods like chi-square, t-test, and ANOVA to test alumni engagement and donation patterns.
-- Implemented Tableau dashboards using LOD expressions, calculated fields, and filters for analyzing student performance, donations and resource allocation, improving decision making by 30%.
-- Proposed and improved forecasting accuracy with time-series analysis in Tableau, predicting $37K in donations vs. $28K manually
+- Leveraged pandas profiling to generate a report on 28K+ records, identifying missing values, duplicates, and schema mismatches
+- Designed star schema dimensional model for MSSQL and used Alteryx ETL to clean, transform data, improving completeness by 40%
+- Assessed donation data in Python to evaluate alumni engagement and trends in donation patterns using time series analysis
+- Implemented Tableau dashboards with LOD expressions, calculated fields, and time-series analysis to analyze student performance, donations and enhancing forecasting accuracy ($37K vs. $28K manually) using Tableau trends
 
-### **Hexaware | Mumbai, IN**  
-**Data Engineer**  
-_Sep 2020 – Nov 2021_
-- Designed and optimized ETL pipelines by using SSIS packages to migrate 15M records from a legacy system to MSSQL database.
-- Migrated SSIS workflows from EC2 to RDS clusters, improving efficiency and achieving 60%-time reduction and 40% cost savings.
-- Automated data retrieval with AWS EventBridge rules, Lambda and Step functions reducing delays with manual triggers.
-- Utilized SQL Server Profiler to optimize inefficient queries using execution plan analysis, indexing, and partitioning, reducing query execution time by 70%.
-- Managed 3 databases (Sales, Operation, Finance), configured role-based access control (RBAC), and ensured data security through audit logs using SQL server audit and data encryption.
-- Launched point-in-time backups on AWS RDS with multi-AZ replication ensuring data integrity and reliable recovery strategies.
-
-### **CitiusTech | Mumbai, IN**  
-**Data Engineer**  
-_Dec 2019 – Aug 2020_
-- Engineered ETL pipelines in Airflow, utilizing DAGs for task scheduling, monitoring, and integrating data from healthcare sources.
-- Automated healthcare inquiry workflows with batch processing, data enrichment, and Snowflake, reducing time by 50%.
-- Applied statistical analysis on health care training session data using SciPy, statsmodels, and feature engineering to improve training effectiveness by 10%.
-- Generated Tableau dashboards with filters, heatmaps, and KPI trends to assess workshop performance and resource allocation.
-- Conducted Python training sessions for 30+ healthcare professionals, introducing control structures, data visualization tools, and object-oriented programming concepts
-
+### **Robokart | Mumbai, IN**  
+**Data Analyst**  
+_Dec 2019 – Aug 2021_
+- Designed ETL pipelines in Airflow, utilizing DAGs for task scheduling, monitoring, and integrating data from 3 sources: student performances, workshops, and customer feedback sources
+- Analyzed robotic training session data with SciPy, statsmodels, using feature engineering to boost final assessment scores by 20%
+- Developed Tableau dashboards with filters, heatmaps, and KPI trends to assess workshop performance and resource allocation
+- Led Python and robotics training for 30+ students, covering data analysis, JavaScript game design, app development, data visualization, and programming fundamentals
 ---
+
 
 ## **Education**
 
